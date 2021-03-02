@@ -1,4 +1,2 @@
 Name: Kunal Bhangale
 Qualification: PG-DAC
-
-Company: Josh Software
